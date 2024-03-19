@@ -10,5 +10,6 @@ int main()
         cout << i << " Selamat Pagi Dunia" << endl;
     }
 
-    
+    cout << "Nilai i terakhir : " << i << endl;
+
 }
